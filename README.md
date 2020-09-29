@@ -1,6 +1,6 @@
 # etisalt_samulation
 
-A new Flutter project.
+A new Flutter project which represent identical rebuild for etisalt App .
 
 ## Getting Started
 
